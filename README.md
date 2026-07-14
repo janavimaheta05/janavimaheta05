@@ -23,9 +23,6 @@ I'm passionate about building backend web applications using Python and Django. 
   <br>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/> Git
   <br>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/> GitHub
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/> VS Code
 </p>
 
 ---
