@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Janavi 👋
 
-<!--
-**janavimaheta05/janavimaheta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Python & Django Developer | 🇮🇳 Gujarat, India
 
-Here are some ideas to get you started:
+I'm passionate about building backend web applications using Python and Django. I enjoy creating practical projects, learning new technologies, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,sqlite,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Projects
+
+### 🏨 Hotel Booking Management System
+- Built with Python, Django, HTML, CSS, Bootstrap, and SQLite
+- User authentication
+- Room booking system
+- Admin dashboard
+- Booking management
+
+### 🍽️ Recipes API Project
+- Django-based application
+- REST API integration
+- Dynamic recipe listing
+- Search functionality
+
+### 🛋️ Furniture Management System
+- Built with Python, Django, and SQLite
+- Database Management System (DBMS)
+- Manage furniture records with CRUD operations
+- Efficient data storage and management
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janavi-maheta)
+
+---
+
+## 💡 Quote
+
+> *"Code. Learn. Build. Improve. Repeat."* 🚀
