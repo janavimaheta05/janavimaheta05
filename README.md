@@ -9,7 +9,23 @@ I'm passionate about building backend web applications using Python and Django. 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/> Python
+  <br>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/> Django
+  <br>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/> HTML5
+  <br>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/> CSS3
+  <br>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/> Bootstrap
+  <br>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"/> SQLite
+  <br>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/> Git
+  <br>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/> GitHub
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/> VS Code
 </p>
 
 ---
